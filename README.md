@@ -46,18 +46,6 @@ I’m eager to keep learning, improving my coding skills, and contributing to im
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaufalHaniff/NaufalHaniff/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaufalHaniff/NaufalHaniff/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NaufalHaniff/NaufalHaniff/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/NaufalHaniff/NaufalHaniff/output/snake.svg" alt="Snake animation" />
-
-###
-
 ### ⚡ Fun Fact
 I believe every bug is just a puzzle waiting to be solved. 🧩
 
