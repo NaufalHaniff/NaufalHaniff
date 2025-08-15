@@ -39,19 +39,24 @@ I’m eager to keep learning, improving my coding skills, and contributing to im
 
 ---
 
-### 📈 Contribution Graph (Pacman)
+### 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaufalHaniff&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaufalHaniff/NaufalHaniff/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaufalHaniff/NaufalHaniff/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NaufalHaniff/NaufalHaniff/output/pacman-contribution-graph.svg">
 </picture>
 
----
+###
 
-### 🐍 Snake Contribution Animation
 <img src="https://raw.githubusercontent.com/NaufalHaniff/NaufalHaniff/output/snake.svg" alt="Snake animation" />
 
----
+###
 
 ### ⚡ Fun Fact
 I believe every bug is just a puzzle waiting to be solved. 🧩
