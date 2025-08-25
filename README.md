@@ -5,7 +5,7 @@
 ---
 
 ### 🌟 About Me
-Hello! I’m **Naufal Hanif Fauzi**, a fresh graduate from **Informatics Engineering** with a strong interest in **Front-End Development** and web technologies.  
+Hello! I’m **Naufal Hanif Fauzi**, a fresh graduate from **Informatics Engineering** with a strong interest in **Full-Stack Development** and web technologies.  
 During my time in college, I had the opportunity to work on several projects, including building **Decision Support Systems** and **Responsive Websites** as part of coursework and group collaborations.  
 
 I’m eager to keep learning, improving my coding skills, and contributing to impactful projects in the tech industry.
