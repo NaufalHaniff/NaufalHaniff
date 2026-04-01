@@ -36,8 +36,8 @@ I’m eager to keep learning, improving my coding skills, and contributing to im
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaufalHaniff&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalHaniff&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=NaufalHanif&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalHanif&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </div>
 
 ---
